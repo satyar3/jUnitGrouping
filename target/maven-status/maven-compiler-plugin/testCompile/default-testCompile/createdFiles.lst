@@ -1,0 +1,13 @@
+jUnitGrouping\runner\RegressionRunner.class
+jUnitGrouping\marker\NewFeatureSet.class
+jUnitGrouping\runner\SanityRunner.class
+jUnitGrouping\testsets\TestPage2.class
+jUnitGrouping\testsets\TestPage1.class
+jUnitGrouping\marker\SanitySet.class
+jUnitGrouping\testsets\TestPage5.class
+jUnitGrouping\runner\MasterRunner.class
+jUnitGrouping\runner\NewFeatureRunner.class
+jUnitGrouping\marker\SimpleRun.class
+jUnitGrouping\marker\RegressionSet.class
+jUnitGrouping\testsets\TestPage4.class
+jUnitGrouping\testsets\TestPage3.class
